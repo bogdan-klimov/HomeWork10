@@ -29,6 +29,11 @@ table th, table td {
     height: 20px;
 }
 
+.third-table {
+    width: 250px;
+    margin-top: 50px;
+}
+
 .third-table-second-td {
     width: 20px;
     height: 20px;
@@ -47,4 +52,14 @@ table th, table td {
 
 .third-table-second-tr-second-td {
     width: 25px;
+}
+
+.fourth-table {
+    width: 600px;
+}
+
+.fourth-table-fourth-tr-second-th,
+.fourth-table-sixth-tr-second-th {
+    height: 100px;
+    background-color: url(images/computer.png);
 }
